@@ -1,0 +1,16 @@
+D:\CG_lab_2\Visual_2019_CG_lab2\tomogram_visualizer\tomogram_visualizer\bin\Debug\tomogram_visualizer.exe.config
+D:\CG_lab_2\Visual_2019_CG_lab2\tomogram_visualizer\tomogram_visualizer\bin\Debug\tomogram_visualizer.exe
+D:\CG_lab_2\Visual_2019_CG_lab2\tomogram_visualizer\tomogram_visualizer\bin\Debug\tomogram_visualizer.pdb
+D:\CG_lab_2\Visual_2019_CG_lab2\tomogram_visualizer\tomogram_visualizer\bin\Debug\OpenTK.dll
+D:\CG_lab_2\Visual_2019_CG_lab2\tomogram_visualizer\tomogram_visualizer\bin\Debug\OpenTK.GLControl.dll
+D:\CG_lab_2\Visual_2019_CG_lab2\tomogram_visualizer\tomogram_visualizer\bin\Debug\OpenTK.pdb
+D:\CG_lab_2\Visual_2019_CG_lab2\tomogram_visualizer\tomogram_visualizer\bin\Debug\OpenTK.xml
+D:\CG_lab_2\Visual_2019_CG_lab2\tomogram_visualizer\tomogram_visualizer\bin\Debug\OpenTK.dll.config
+D:\CG_lab_2\Visual_2019_CG_lab2\tomogram_visualizer\tomogram_visualizer\bin\Debug\OpenTK.GLControl.xml
+D:\CG_lab_2\Visual_2019_CG_lab2\tomogram_visualizer\tomogram_visualizer\obj\Debug\tomogram_visualizer.csprojAssemblyReference.cache
+D:\CG_lab_2\Visual_2019_CG_lab2\tomogram_visualizer\tomogram_visualizer\obj\Debug\tomogram_visualizer.Form1.resources
+D:\CG_lab_2\Visual_2019_CG_lab2\tomogram_visualizer\tomogram_visualizer\obj\Debug\tomogram_visualizer.Properties.Resources.resources
+D:\CG_lab_2\Visual_2019_CG_lab2\tomogram_visualizer\tomogram_visualizer\obj\Debug\tomogram_visualizer.csproj.GenerateResource.cache
+D:\CG_lab_2\Visual_2019_CG_lab2\tomogram_visualizer\tomogram_visualizer\obj\Debug\tomogram_visualizer.csproj.CopyComplete
+D:\CG_lab_2\Visual_2019_CG_lab2\tomogram_visualizer\tomogram_visualizer\obj\Debug\tomogram_visualizer.exe
+D:\CG_lab_2\Visual_2019_CG_lab2\tomogram_visualizer\tomogram_visualizer\obj\Debug\tomogram_visualizer.pdb
